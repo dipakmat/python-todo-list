@@ -16,6 +16,10 @@ A simple Python-based To-Do List application.
    ```
    bash python todolist.py
    ```
+4. Run the application unit test cases.
+   ```
+   bash python test_todolist.py
+   ```
 
 ## Contributing
 
